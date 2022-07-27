@@ -11,6 +11,6 @@ public class GitTest {
         System.out.println("你好世界！33333");
         System.out.println("你好世界！44444");
         System.out.println("你好世界！55555");
-        System.out.println("你好世界！hot-fix");
+        System.out.println("你好世界！hot-fix test");
     }
 }
